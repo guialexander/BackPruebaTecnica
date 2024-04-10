@@ -1,5 +1,8 @@
 # titulo
-Backend prueba tecnica
+como probar:
+paso el .env por el email.
+http://localhost:8080/api/users ulr de pruebas.
+
 
 ## Description
 Para el desarrollo del backend de nuestra aplicación, utilizamos MongoDB Atlas como nuestra base de datos y Express.js como nuestro framework de servidor. MongoDB Atlas 
